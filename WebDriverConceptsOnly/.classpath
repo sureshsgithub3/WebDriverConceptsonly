@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/Users/suresh/Desktop/Office Selenium Dumps/mysql-connector-java-5.1.14-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/suresh/Desktop/Office Selenium Dumps/selenium-server-standalone-2.48.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/suresh/Desktop/Office Selenium Dumps/Sikuli_1/sikuli-ide.jar"/>
+	<classpathentry kind="lib" path="C:/Users/suresh/Desktop/Office Selenium Dumps/Sikuli_1/sikuli-java.jar"/>
+	<classpathentry kind="lib" path="C:/Users/suresh/Desktop/Office Selenium Dumps/Sikuli_1/sikuli-setup.jar"/>
+	<classpathentry kind="lib" path="C:/Users/suresh/Desktop/Office Selenium Dumps/Sikuli_1/sikuli-tessdata.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
